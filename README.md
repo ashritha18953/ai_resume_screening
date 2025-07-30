@@ -8,7 +8,7 @@ A smart AI-powered tool that compares multiple resumes to a job description usin
 
 This project helps HR teams and recruiters automatically screen resumes by comparing them with a job description using **sentence embeddings** and **cosine similarity**. It extracts text from PDF resumes and calculates how closely they match the job description using advanced **NLP** models.
 
-This project was built as part of **HackWithInfy 2025** by Ashritha for the **Digital Specialist Role**.
+
 
 ---
 
