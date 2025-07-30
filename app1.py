@@ -129,3 +129,4 @@ if st.button("🔍 Analyze"):
             fig.update_coloraxes(showscale=False)
 
         st.plotly_chart(fig, use_container_width=False)
+
